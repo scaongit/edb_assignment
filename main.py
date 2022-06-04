@@ -49,5 +49,5 @@ def rotate(filename, rotation_degree):
 
 
 if __name__ == '__main__':
-    print(rotate('test01.pbm', 180))
+    print(rotate('test02.pbm', -90))
 
